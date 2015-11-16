@@ -1,0 +1,16 @@
+{
+  "name": "cdp-js-blokhina",
+  "version": "1.0.0",
+  "description": "home task CDP-JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node nightwatch.js -c nightwatch.json"
+  },
+  "author": "yevheniia_blokhina",
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "^0.9.0",
+    "nightwatch": "^0.8.6",
+    "selenium-server": "^2.48.2"
+  }
+}
